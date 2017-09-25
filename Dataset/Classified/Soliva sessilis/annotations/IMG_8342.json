@@ -1,0 +1,28 @@
+{
+  "filename" : "IMG_8342.JPG",
+  "folder" : "Soliva sessilis",
+  "image_w_h" : [
+    3024,
+    4032
+  ],
+  "objects" : [
+    {
+      "label" : "vaca",
+      "x_y_w_h" : [
+        1080,
+        371,
+        897,
+        451
+      ]
+    },
+    {
+      "label" : "persona",
+      "x_y_w_h" : [
+        728,
+        1858,
+        1084,
+        952
+      ]
+    }
+  ]
+}

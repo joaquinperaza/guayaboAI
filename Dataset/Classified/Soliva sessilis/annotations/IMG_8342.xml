@@ -1,0 +1,27 @@
+<annotation>
+    <folder>Soliva sessilis</folder>
+    <filename>IMG_8342.JPG</filename>
+    <size>
+        <width>3024</width>
+        <height>4032</height>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>vaca</name>
+        <bndbox>
+            <xmin>1080</xmin>
+            <ymin>371</ymin>
+            <xmax>1976</xmax>
+            <ymax>821</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>persona</name>
+        <bndbox>
+            <xmin>728</xmin>
+            <ymin>1858</ymin>
+            <xmax>1811</xmax>
+            <ymax>2809</ymax>
+        </bndbox>
+    </object>
+</annotation>
